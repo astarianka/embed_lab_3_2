@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmbedLab3_2</string>
+    <string name="x_1">0</string>
+    <string name="x_2">0</string>
+    <string name="y_1">0</string>
+    <string name="y_2">0</string>
+    <string name="P">0</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="lambda">0</string>
+    <string name="time">0</string>
+    <string name="iterations">0</string>
+    <string name="output"></string>
+</resources>
