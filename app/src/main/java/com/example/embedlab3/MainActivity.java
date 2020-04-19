@@ -124,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
 
         msg = (iter_done == iter)?"Max amount of iterations done!":"Time is up!";
         Toast.makeText(getApplicationContext(),msg, Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"Iterations done: "+iter_done, Toast.LENGTH_LONG).show();
 
         return result;
     }
